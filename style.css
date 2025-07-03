@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  background-color: tan;
+  text-align: center;
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+.profile-card {
+  display: inline-block;
+  background: #fff8f0;
+  border: 1px solid #b5651d;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 20px;
+  box-shadow: 0 4px 16px rgba(99,54,24,0.08);
+}
+
+h1 {
+  font-size: 3em;
+  color: rgb(99, 54, 24);
+}
+
+h2 {
+  font-size: 2em;
+  color: #b5651d; /* light brown */
+}
+
+p {
+  font-size: 1.3em;
+  line-height: 1.6;
+}
